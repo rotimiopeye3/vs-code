@@ -1,0 +1,6 @@
+{
+  "name": "Web IDE (VS Code Clone)",
+  "description": "A browser-based IDE with local storage persistence and extension support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
